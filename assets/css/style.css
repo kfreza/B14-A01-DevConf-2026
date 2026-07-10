@@ -730,11 +730,6 @@ label {
   height: 21px;
   width: 7px;
 }
-.cs_pricing_features li span img {
-  width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
 
 /*=============================================
  Featured Plan
